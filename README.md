@@ -39,6 +39,7 @@ Analyze customer reviews to identify the most common and impactful problems user
 
 ## Portfolio
 Notion Case Study: Product Feedback Analysis -Meesho(notion)
+Notion Case Study:[View Full Case Study]  https://gelatinous-surprise-cce.notion.site/Product-Feedback-Analysis-Meesho-Aug-2026-3bae63c0fdf181d2a3a0fbc0bc0b0241?source=copy_link
 
 ## Key Learnings
 - Learned how AI can analyze unstructured customer feedback.
