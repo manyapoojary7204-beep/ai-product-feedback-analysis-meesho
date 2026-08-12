@@ -38,7 +38,7 @@ Analyze customer reviews to identify the most common and impactful problems user
 - Customer support resolution rate
 
 ## Portfolio
-Notion Case Study: [Add your published Notion link here]
+Notion Case Study: Product Feedback Analysis -Meesho(notion)
 
 ## Key Learnings
 - Learned how AI can analyze unstructured customer feedback.
